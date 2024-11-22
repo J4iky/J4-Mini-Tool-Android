@@ -1,0 +1,15 @@
+{
+    "latestVersion": "1.0",
+    "latestVersionCode": 1,
+    "url": "https://github.com/[YourUsername]/[RepoName]/releases/download/v1.0/app-release.apk",
+    "releaseNotes": [
+        "Initial release",
+        "Features:",
+        "• Dual Calendar System (Persian & Gregorian)",
+        "• System Information Tools",
+        "• Random Number Generator (RNG)",
+        "• Classic Snake Game",
+        "• Classic Pong Game",
+        "• 4 Theme Colors (Green, Red, Blue, Yellow)"
+    ]
+}
