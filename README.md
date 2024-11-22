@@ -12,7 +12,7 @@
 J4 Mini Tool is a versatile Android application combining practical utilities with nostalgic games. It offers a dual-calendar system, system information viewer, random number generator, and classic games, all wrapped in a customizable interface.
 
 ## Download
-Get the latest version from the [Releases](https://github.com/[YourUsername]/[RepoName]/releases) page.
+Get the latest version from the [Releases](https://github.com/J4iky/J4-Mini-Tool-Android/releases) page.
 
 ## Features
 
