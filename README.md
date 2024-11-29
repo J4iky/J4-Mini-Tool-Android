@@ -4,17 +4,22 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-7.0+-3DDC84?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Version-1.0-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Version-1.2-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/License-Proprietary-red?style=flat-square" />
 </p>
 
 ## About
-J4 Mini Tool is a versatile Android application combining practical utilities with nostalgic games. It offers a dual-calendar system, system information viewer, random number generator, and classic games, all wrapped in a customizable interface.
+J4 Mini Tool is a versatile Android application combining practical utilities with nostalgic games. It offers a dual-calendar system, weather monitoring, system information viewer, random number generator, and classic games, all wrapped in a customizable interface.
 
 ## Download
 Get the latest version from the [Releases](https://github.com/J4iky/J4-Mini-Tool-Android/releases) page.
 
 ## Features
+
+### 🌤️ Weather Panel
+- Real-time weather conditions
+- Temperature and weather status
+- Weather forecasting capabilities
 
 ### 📅 Dual Calendar System
 - Persian (Shamsi) calendar with events
@@ -28,14 +33,18 @@ Get the latest version from the [Releases](https://github.com/J4iky/J4-Mini-Tool
 
 ### 🎲 Tools & Utilities
 - Random Number Generator (RNG)
+- Status Bar Notifications
 - [Other utilities if any]
 
 ### 🎮 Retro Games
 - Classic Snake Game
   - Nostalgic gameplay
   - High score tracking
+  - Optimized for both portrait and landscape modes
 - Pong Game
   - Classic arcade experience
+  - Full screen orientation support
+  - Enhanced gameplay in both portrait and landscape
 
 ### 🎨 Customization
 Theme colors:
